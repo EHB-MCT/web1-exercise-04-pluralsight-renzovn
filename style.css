@@ -1,0 +1,32 @@
+body {
+    margin: 40px;
+    background: rgb(101,23,88);
+    background: linear-gradient(90deg, rgba(101,23,88,1) 0%, rgba(49,21,98,1) 50%, rgba(27,24,52,1) 100%); 
+}
+
+h1 {
+    color: #ff1675;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+
+h2 {
+    color: #fff;
+    font-size: 48px;
+    font-family: sans-serif;
+}
+
+p {
+    color: #fff;
+    font-family: sans-serif;
+}
+
+button {
+    border-radius: 20px;
+    border-color: #ff1675;
+    background-color: #ff1675;
+    color: #fff;
+    padding: 15px;
+    font-family: sans-serif;
+}
+
